@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shamina187
 - 👀 I’m Data Analyst Enthusiast by Profession.
-- I’m Certified Data Analyst By ExcelR Solutions.
-💞️ I’m looking for a Job in the Data Analyst Domain
+- I’m Certified Data Analyst with Python By ExcelR Solutions.
+💞️ I’m looking for a Job in the Data Analyst and in the Python Domain
 📫 Reach me on Email- shamina187@gmail.com | Mo- +91 8547574374
 😄 Pronouns: ...
 ⚡ Fun fact: ...
